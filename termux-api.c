@@ -25,7 +25,7 @@
 #define TERMUX_API_PACKAGE_VERSION "0.58.0"
 
 #ifndef PREFIX
-# define PREFIX "/data/data/com.termux/files/usr"
+# define PREFIX "/data/data/com.root.system/files/usr/xbin/termux"
 #endif
 
 #define LISTEN_SOCKET_ADDRESS "com.termux.api://listen"
